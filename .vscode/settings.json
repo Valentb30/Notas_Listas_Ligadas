@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Notas/lib/jackson-annotations-2.18.1.jar",
+        "Notas/lib/jackson-core-2.18.3.jar",
+        "Notas/lib/jackson-databind-2.18.3.jar"
+    ]
+}
